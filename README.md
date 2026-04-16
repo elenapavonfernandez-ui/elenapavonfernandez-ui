@@ -1,6 +1,6 @@
 # 👋 Soy Elena Pavón Fernández
 
-**Junior Data Analyst** | SQL · Python · Power BI · Tableau
+**Data Analyst** | SQL · Python · Power BI · Tableau
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-elenapavonfernandez-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/elenapavonfernandez)
 [![Email](https://img.shields.io/badge/Email-elenapavonfernandez@gmail.com-D14836?style=flat&logo=gmail&logoColor=white)](mailto:elenapavonfernandez@gmail.com)
